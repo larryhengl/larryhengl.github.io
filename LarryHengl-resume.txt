@@ -1,0 +1,77 @@
+Larry Hengl
+Senior Software Engineer | Richmond, CA
+
+larrylayup@gmail.com
+larryhengl.github.io
+linkedin.com/in/larry-hengl-8134012
+
+
+Experienced fullstack developer, database architect and pipeline engineer in bioinformatics, expanding into quantum computing. Specializing in scientific web applications, data architecture and workflow tools for processing, analyzing and visualizing research data.
+
+
+EXPERIENCE
+
+BioMarin Pharmaceutical, San Rafael, CA  | 2015 - 2024
+Associate Director, Genomics | 2019 - 2024
+Senior Engineer, Bioinformatics | 2015 - 2019
+*  Architected bioinformatics databases and applications for analyses of genetic variants in rare diseases. These systems included variant and transcriptomic repositories and viewers, genetic and proteomic profilers, a metabolite viewer, as well as UKBiobank phenotype catalog and analysis results DBs and web UIs. 
+*  Managed large and small external and internally sourced datasets, and included sequence, assay, phenotype, EHR, and custom annotation datatypes, which were used to helped prioritize top lists of disease and gene target candidates. Designed a storage standard for datasets in AWS S3, including a cataloging method in Benchling, defined lifecycle policies, and scripted HPC data migration methods.
+*  Lead engineering teams of 15+ remote contractors in the construction of two gene therapy sequencing pipelines using custom HPC SLURM jobs and DNAnexus workflows, integrated with Benchling for upstream run configurations, stored midstream results in Postgres, and enabled downstream results exploration in Spotfire dashboards and custom web UIs built in React. 
+*  Built systems to enhance scientific workflows, including:
+    - A Python web app for bulk uploading assay results into Benchling, which fed a data warehouse and downstream Spotfire reporting dashboard, turning days of manual data wrangling for lab scientists into a few hours of configuring and fine tuning.
+    - An oligo designer web tool in Svelte for ASO tiling and chemistry modifications, and included a sequence patent application export feature that saved upwards of 3 months and $20,000 of outsourcing time and costs per filing.
+*  Co-produced platforms for best practices in app source code management and automated app deployment: GitLab with CI/CD, RConnect for Shiny, Jupyter and RStudio for data exploration, and Quarto and Markdoc for generating and sharing app docs. Also lead informal presentations and training sessions on the use of those systems.
+
+Novartis / Chiron, Emeryville, CA   | 2000 - 2015
+Programmer Analyst IV, NIBR IT&AS | 2005 - 2015
+Database Specialist, Bioinformatics | 2000 - 2005
+*  Built informatics and IT systems to support cancer and infectious disease research.
+*  Architected Oracle databases in bioinformatics and performed DBA role.
+
+full work history can be found at https://larryhengl.github.io/
+
+
+SKILLS
+
+Languages 
+Javascript, Python, R, SQL
+
+Frameworks
+JS - Svelte/SvelteKit, React, Vue, jQuery
+Python/R - Dash, Streamlit, Shiny
+CSS - Tailwind, Flowbite, UIKit, Bootstrap
+Viz - Spotfire, Plotly, ChartJS, Highcharts, D3, Crossfilter
+
+Databases
+DuckDB, PostgreSQL, MySQL, Oracle, Neo4j, CouchDB, MongoDB, ElasticSearch
+
+Services
+Node.js, Express, Hapi, Flask 
+
+Cloud/HPC
+AWS RDS/S3, Cromwell, SLURM
+
+Platforms & Tools
+DNAnexus, Benchling, git, GitLab, GitHub, CI/CD, Jira, Confluence, Docker, RStudio, RConnect, Jupyter, Excalidraw, Monday.com
+
+Testing
+NPM, Tape, Mocha, Chai/Sinon, Selenium, PhantomJS, Postman
+
+Docs
+Quarto, Markdoc, Dox, Markdown
+
+MS
+PowerBI, PowerAutomate, PowerQuery, Sharepoint, Teams
+
+
+Open Source Author
+GitHub - myvariantjs
+https://github.com/larryhengl/myvariantjs
+myvariantjs-demo
+http://larryhengl.github.io/myvariantjs-demo/
+
+
+EDUCATION
+Bachelor of Science, Statistics
+UC Santa Barbara (UCSB), 1992
+
