@@ -1,48 +1,10 @@
-Larry Hengl
+﻿Larry Hengl
 Senior Software Engineer | Richmond, CA
-
 larrylayup@gmail.com
 larryhengl.github.io
 linkedin.com/in/larry-hengl-8134012
 
-
 Experienced fullstack developer, database architect and pipeline engineer in bioinformatics, expanding into quantum computing. Specializing in scientific web applications, data architecture and workflow tools for processing, analyzing and visualizing research data.
-
-
-EXPERIENCE
-
-BioMarin Pharmaceutical, San Rafael, CA     2015 - 2024
-Associate Director, Genomics | 2019 - 2024
-Senior Engineer, Bioinformatics | 2015 - 2019
-*  Architected bioinformatics databases and applications for analysis of genetic variants in rare diseases.
-*  Managed large and small external and internally sourced datasets.
-*  Lead engineering teams of 15+ remote contractors. 
-*  Built fullstack systems and pipelines to enhance scientific workflows.
-*  Co-produced platforms for best practices in app source code management and automated app deployment, and provided training.
-
-Novartis / Chiron, Emeryville, CA   2000 - 2015
-Programmer Analyst IV, NIBR IT&AS | 2005 - 2015
-Database Specialist, Bioinformatics | 2000 - 2005
-*  Built informatics and IT systems to support cancer and infectious disease research.
-*  Architected Oracle databases in bioinformatics and performed DBA role.
-
-UC San Francisco, SF, CA    1994 - 2000
-Programmer Analyst III, Cancer Center | 1999 - 2000
-Programmer Analyst/Assistant Statistician | 1994 - 1999
-*  Built data collection systems for oral studies, HIV studies, and cancer research using MS tools, Oracle, SQL, PHP.
-
-Santa Barbara Breast Cancer Institute, SB, CA   1992 - 1993
-Statistician
-*  Built and analyzed datasets for breast cancer studies lead by Dr. Otto Sartorius.
-
-Concurrent Appointments
-UC Berkeley Extension
-Muster Learning Architects, Berkeley, CA    1998 - 2001
-Oracle Instructor: SQL and PL/SQL | 1999 - 2001
-Volunteer Unix Intern/Oracle Teaching Assistant | 1998 - 1999
-
-Cancerlinks LLC, Berkeley, CA   1999 - 2002
-Volunteer Web Database Programmer
 
 
 SKILLS
@@ -78,8 +40,43 @@ MS
 PowerBI, PowerAutomate, PowerQuery, Sharepoint, Teams
 
 
+EXPERIENCE
+
+BioMarin Pharmaceutical, San Rafael, CA          APR 2015 — MAY 2024 {9yr}
+Principal Engineer, Bioinformatics | Genomics
+•  Architected bioinformatics databases and applications for analysis of genetic variants in rare diseases.
+•  Managed large and small external and internally sourced datasets.
+•  Lead engineering teams of 15+ remote contractors. 
+•  Built fullstack systems and pipelines to enhance scientific workflows.
+•  Co-produced platforms for best practices in app source code management and automated app deployment, and provided training.
+
+Novartis / Chiron, Emeryville, CA	               DEC 2000 — APR 2015 {15yr}
+Programmer Analyst IV, NIBR IT&AS | 2005 — 2015
+Database Specialist, Bioinformatics | 2000 — 2005
+•  Built informatics and IT systems to support cancer and infectious disease research.
+•  Architected Oracle databases in bioinformatics and performed DBA role.
+
+UC San Francisco, SF, CA			OCT 1994 — NOV 2000 {6yr}
+Programmer Analyst III, Cancer Center | 1999 — 2000
+Programmer Analyst/Assistant Statistician | 1994 — 1999
+•  Built data collection systems for oral studies, HIV studies, and cancer research using MS tools, Oracle, SQL, PHP.
+
+Santa Barbara Breast Cancer Institute, SB, CA   APR 1992 — DEC 1993 {1.5yr}
+Statistician
+•  Built and analyzed datasets for breast cancer studies lead by Dr. Otto Sartorius.
+
+Concurrent Appointments
+UC Berkeley Extension
+Muster Learning Architects, Berkeley, CA	    JUN 1998 — APR 2001 {3yr}
+Oracle Instructor: SQL and PL/SQL | 1999 — 2001
+Volunteer Unix Intern/Oracle Teaching Assistant | 1998 — 1999
+
+Cancerlinks LLC, Berkeley, CA		   JUL 1999 — JAN 2002 {2.5yr}
+Volunteer Web Database Programmer
+
+
 Open Source Author
-GitHub � myvariantjs
+GitHub – myvariantjs
 https://github.com/larryhengl/myvariantjs
 myvariantjs-demo
 http://larryhengl.github.io/myvariantjs-demo/
@@ -88,4 +85,3 @@ http://larryhengl.github.io/myvariantjs-demo/
 EDUCATION
 Bachelor of Science, Statistics
 UC Santa Barbara (UCSB), 1992
-
